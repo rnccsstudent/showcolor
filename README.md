@@ -56,8 +56,8 @@ Deployed using Netlify from main branch using npm run build → build/ folder.
 🧑‍💻 Author
 
 Pranab Mahata
-GitHub: 
-[@rnccsstudent](https://github.com/rnccsstudent)
+
+GitHub: [@rnccsstudent](https://github.com/rnccsstudent)
 
 
 ---
