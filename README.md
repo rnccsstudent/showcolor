@@ -18,9 +18,11 @@ Deployed at: [https://showcolor.netlify.app](https://showcolor.netlify.app)
 
     showcolor/ 
     ├── public/ 
-    ├── src/ │   
-    ├── components/ 
-    │   └── App.js 
+    ├── src/ │    
+       └── App.js 
+       └── Input.js
+       └── index.css
+       └──index.js
     ├── package.json 
     └── README.md
 
